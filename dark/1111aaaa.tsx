@@ -8,3 +8,4 @@ const TruckFast = (props: React.SVGProps<SVGSVGElement>) => {
 };
 
 export default TruckFast;
+
